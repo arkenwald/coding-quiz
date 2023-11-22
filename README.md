@@ -4,21 +4,29 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-A Random Password Generator was created using Javascript.
+A Coding Quiz has been created using Google Fonts and the Bootstrap library with features such as:
 
-This challenge provided me with the skills to use functions within JavaScript to have the end-user interact with the web application as intended.
+Timer
+High Score Ranking
+Initials Input
 
 Installation
 
 To install the project, I've initiated my local working folder into a GitHub Repository, then pushed the local files to the Repository after adding and commiting the updated codes.
 
+To access the project, please enter the Live Page URL found below.
+
 Usage
 
-The user must click on Generate Password to generate a randomized password with specified window prompts regarding the user's preference of special characters or style.
+The user must click on Start the Quiz to begin.
 
-The user may select from Special Characters, Lowercase Letters, Uppercase Letters, as well as Numbers.
+The in-game timer will count down from 100 seconds.
 
-This web application will provide the end-user the ability to generate a strong randomized password for better security.
+Any correct answers will add time to the clock.
+
+Any incorrect answers will remove time from the clock.
+
+Once the quiz is completed, the user may input their initials to log their high score and try again if they wish.
 
 Live URL:
 
