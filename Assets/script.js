@@ -196,7 +196,7 @@ document.addEventListener("click", function (event) {
       // moves to next question
       questionNumber = questionNumber + 1;
       // removing time from clock
-      gameTimer -= -10;
+      gameTimer -= 10;
 
       if (questionNumber <= (numberOfQuestions - 1)) {
         questionHeading.textContent = questions[questionNumber].title;
