@@ -7,7 +7,9 @@ This project is for self-improvement and practice in order to provide myself wit
 A Coding Quiz has been created using Google Fonts and the Bootstrap library with features such as:
 
 Timer
+
 High Score Ranking
+
 Initials Input
 
 Installation
