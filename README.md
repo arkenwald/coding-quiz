@@ -43,9 +43,13 @@ https://github.com/pnguyen412
 
 Website Resources:
 
-https://www.w3schools.com/js/js_math.asp
+[https://www.w3schools.com/js/js_math.asp](http://meyerweb.com/eric/tools/css/reset/)
 
-https://www.w3schools.com/jsref/jsref_charat.asp
+[https://www.w3schools.com/jsref/jsref_charat.asp](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+https://fonts.google.com/
+
+https://getbootstrap.com/
 
 License
 
