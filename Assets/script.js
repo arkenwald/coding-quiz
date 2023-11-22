@@ -157,7 +157,7 @@ function countdownClock() {
     }
   }, 1000);
 }
-// adds event when end user click on the answer (button) to see if it matches the correct one in the questions array
+// adds event when end user on the answer (button) to see if it matches the correct one in the questions array
 document.addEventListener("click", function (event) {
   if (event.target.matches('.choice-btn')) {
     event.stopPropagation();
