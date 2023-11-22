@@ -32,17 +32,15 @@ Once the quiz is completed, the user may input their initials to log their high 
 
 Live URL:
 
-https://arkenwald.github.io/RandomPasswordGenerator/
+https://arkenwald.github.io/coding-quiz/
 
 GitHub Repository:
 
-https://github.com/arkenwald/RandomPasswordGenerator
+https://github.com/arkenwald/coding-quiz
 
 Screenshot of Live Page:
 
-![screenshot1](https://github.com/arkenwald/RandomPasswordGenerator/assets/149994852/820f5ff3-1d48-4816-a3e4-2a6a24dc8786)
 
-![screenshot2](https://github.com/arkenwald/RandomPasswordGenerator/assets/149994852/9a2e0fc9-3e3c-4106-921f-2ba6680c101c)
 
 
 Credits
