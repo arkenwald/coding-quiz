@@ -1,5 +1,6 @@
 # coding-quiz
 
+
 Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
@@ -12,11 +13,13 @@ High Score Ranking
 
 Initials Input
 
+
 Installation
 
 To install the project, I've initiated my local working folder into a GitHub Repository, then pushed the local files to the Repository after adding and commiting the updated codes.
 
 To access the project, please enter the Live Page URL found below.
+
 
 Usage
 
@@ -30,6 +33,7 @@ Any incorrect answers will remove time from the clock.
 
 Once the quiz is completed, the user may input their initials to log their high score and try again if they wish.
 
+
 Live URL:
 
 https://arkenwald.github.io/coding-quiz/
@@ -40,7 +44,21 @@ https://github.com/arkenwald/coding-quiz
 
 Screenshot of Live Page:
 
+Quiz Main Page
 
+![screenshotmain](https://github.com/arkenwald/coding-quiz/assets/149994852/3488e3a4-8848-4d2a-b390-5e5399bdbe70)
+
+During Quiz
+
+![screenshotquiz](https://github.com/arkenwald/coding-quiz/assets/149994852/b61164c4-12e8-4549-a392-8f1e1257c7ea)
+
+Initials Input for High Score
+  
+![screenshotinput](https://github.com/arkenwald/coding-quiz/assets/149994852/6499a0d0-6faf-4ec5-9791-735d57f0c3dc)
+
+High Score Rankings
+
+![screenshothighscores](https://github.com/arkenwald/coding-quiz/assets/149994852/4074096d-9f1c-4440-8271-ee4719d416ee)
 
 
 Credits
